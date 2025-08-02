@@ -21,7 +21,7 @@ I have completed assignments up to the **SQLite3 module** so far, and will keep 
 | Assignment 08 | CSV Dataset Analysis – Salaries |
 | Assignment 09 | Correlation, Feature Exploration |
 | Assignment 10 | SQLite3 – Working with Databases |
-| Assignment 11 | Coming soon... |
+| Assignment 11 | SQLite3 – Working with Databases |
 
 ---
 
